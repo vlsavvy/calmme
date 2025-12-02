@@ -1,0 +1,10 @@
+{
+  "id": "calmme-mcp",
+  "name": "CalmMe",
+  "description": "A CBT-based emotional micro-intervention agent responding to real-time heart rate.",
+  "type": "mcp",
+  "version": "1.0.0",
+  "endpoints": {
+    "mcp": "http://127.0.0.1:8000/mcp/calmme"
+  }
+}
