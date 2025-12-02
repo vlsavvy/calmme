@@ -44,7 +44,7 @@ def agent_card():
         "type": "mcp",
         "version": "1.0.0",
         "endpoints": {
-            "mcp": "http://127.0.0.1:8000/mcp/calmme"
+            "mcp": "https://calmme-kktmiavhe-vidhyalakshmi-bs-projects.vercel.app/mcp/calmme"
         }
     }
 
